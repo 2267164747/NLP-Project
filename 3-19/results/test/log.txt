@@ -1,0 +1,31 @@
+2019-05-05 11:37:53,757:INFO: Initializing tf session
+2019-05-05 11:38:00,429:INFO: Epoch 1 out of 15
+2019-05-05 11:39:02,815:INFO: Initializing tf session
+2019-05-05 11:39:06,737:INFO: Epoch 1 out of 15
+2019-05-05 12:03:11,139:INFO: Initializing tf session
+2019-05-05 12:03:18,279:INFO: Epoch 1 out of 15
+2019-05-05 12:25:25,301:INFO: f1 48.20 - acc 90.87
+2019-05-05 12:25:27,129:INFO: - new best score!
+2019-05-05 12:25:27,129:INFO: Epoch 2 out of 15
+2019-05-05 12:46:49,507:INFO: f1 59.78 - acc 92.47
+2019-05-05 12:46:50,944:INFO: - new best score!
+2019-05-05 12:46:50,944:INFO: Epoch 3 out of 15
+2019-05-05 13:08:25,233:INFO: f1 65.91 - acc 93.38
+2019-05-05 13:08:26,952:INFO: - new best score!
+2019-05-05 13:08:26,952:INFO: Epoch 4 out of 15
+2019-05-05 13:29:57,853:INFO: f1 68.40 - acc 93.85
+2019-05-05 13:29:59,243:INFO: - new best score!
+2019-05-05 13:29:59,243:INFO: Epoch 5 out of 15
+2019-05-05 13:51:35,389:INFO: f1 70.36 - acc 94.18
+2019-05-05 13:51:37,233:INFO: - new best score!
+2019-05-05 13:51:37,233:INFO: Epoch 6 out of 15
+2019-05-05 14:02:06,886:INFO: Initializing tf session
+2019-05-05 14:02:07,589:INFO: Reloading the latest trained model...
+2019-05-05 14:02:07,589:INFO: Restoring parameters from results/test/model.weights/
+2019-05-05 14:02:08,385:INFO: Testing model over test set
+2019-05-05 14:03:44,363:INFO: acc 93.23 - f1 66.28
+2019-05-05 14:03:44,363:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
